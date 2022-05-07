@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The community map moved to the main website https://github.com/maplibre/maplibre.github.io/
+
 # community
 MapLibre community map 
 
